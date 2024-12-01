@@ -10,3 +10,5 @@ Using Trifacta for the first time, I created a workflow that imports an Excel sh
 `Internships Workflow.json` is the raw code for the Trifacta workflow I created.
 
 `Updated Internships Sheet.xlsx` is the newly-sorted internship data as an Excel file.
+
+`Screen Shot 2024-12-01 at 4.45.57 PM.png` is a screencap of the workflow in Trifacta.
